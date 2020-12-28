@@ -1,5 +1,5 @@
 # number-plate-detection
-We have built a python program to detetct the number plate of a moving vehicle through the location or the url of the video.
+We have built a python program to detect the number plate of a moving vehicle through the location or the url of the video.
 
 
 
